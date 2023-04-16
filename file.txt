@@ -1,2 +1,2 @@
 This git repo is used to understand how git works
-when it works 
+when it works How it works and who it works for
