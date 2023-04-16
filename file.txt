@@ -1,4 +1,2 @@
 This git repo is used to understand how git works
 when it works How it works and who it works for
-This is an extesion of the file updated on master branch
-This file is to understand hoe it works properly
